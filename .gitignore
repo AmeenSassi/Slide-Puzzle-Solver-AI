@@ -14,6 +14,12 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+#ignore these extensions
+*.png
+*.pdf
+*.docx
+*.zip
+
 # Windows shortcuts
 *.lnk
 
